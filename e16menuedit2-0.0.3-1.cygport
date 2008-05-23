@@ -1,0 +1,5 @@
+inherit gnome2
+
+DESCRIPTION="Enlightenment E16 menu editor"
+HOMEPAGE="http://enlightenment.org/"
+SRC_URI="mirror://sourceforge/enlightenment/${P}.tar.gz"
