@@ -1,4 +1,4 @@
 category: X11
-requires: cygwin e16 glib2 gdk-pixbuf2 gtk2-x11 libglade2 libintl8 libpopt0
+requires: e16 glib2 gdk-pixbuf2 gtk2-x11 libglade2 libintl8 libpopt0
 sdesc: "Enlightment E16 menu editor"
 ldesc: "User menu editor for the Enlightenment DR16 window manager"
