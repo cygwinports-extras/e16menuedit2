@@ -1,0 +1,13 @@
+inherit gnome2
+
+NAME="e16menuedit2"
+VERSION=0.0.3
+RELEASE=2
+CATEGORY="X11"
+SUMMARY="Enlightment E16 menu editor"
+DESCRIPTION="User menu editor for the Enlightenment DR16 window manager"
+REQUIRES="e16"
+HOMEPAGE="http://enlightenment.org/"
+SRC_URI="mirror://sourceforge/enlightenment/${NAME}-${VERSION}.tar.gz"
+
+MAKEOPTS+=" e16menuedit2doc_DATA= "

@@ -1,4 +1,0 @@
-category: X11
-requires: e16 libgcc1 libglib2.0_0 libgdk_pixbuf2.0_0 libgtk2.0_0 libglade2.0_0 libintl8 libpopt0
-sdesc: "Enlightment E16 menu editor"
-ldesc: "User menu editor for the Enlightenment DR16 window manager"
